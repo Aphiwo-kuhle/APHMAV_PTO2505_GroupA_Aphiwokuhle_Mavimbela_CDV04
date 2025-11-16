@@ -1,8 +1,8 @@
 
-🎨 CDV04 – Custom Cover Letter for Junior React Developer (Vulindlela)
+##🎨 CDV04 – Custom Cover Letter for Junior React Developer (Vulindlela)
 <div align="center">
 
-🔥 A clean, colourful, and professional project README 🔥
+#🔥 A clean, colourful, and professional project README 🔥
 Showcasing my customised cover letter for Vulindlela’s Junior React Developer role.
 
 </div>
